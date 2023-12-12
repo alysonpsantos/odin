@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+header{
+    background-color: gray;
+    color: black;
+}
+
+header img{
+}
+
+header ul{
+}
+
+.main{
+    background-color: black;
+    color: white;
+}
+
+.info{
+    background-color: red;
+    color: white;
+}
+
+.quote{
+    background-color: gray;
+    color: black;
+}
+
+.cta{
+    background-color: blue;
+    color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
